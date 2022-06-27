@@ -1,0 +1,98 @@
+body
+{
+margin: 0;
+}
+
+#tudo, #topo, #menu, #conteudo, #rodape {
+font-family: verdana;
+font-size: 12;
+color: #ffffff;
+text-align: center;
+}
+#tudo {
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#topo {
+	width: 1422;
+	height: 100;
+	background-color: MediumPurple;
+	text-align: center;
+	font-family: tahoma;
+    font-size: 24;
+}
+
+#menu {
+background-color: Black;
+float: left;
+
+
+}
+
+#conteudo {
+	
+background-color: #EDD7FA;
+
+}
+#rodape {
+	width: 1422;
+	height: 50;
+	background-color: grey;
+	clear: both;
+}
+
+h1{
+color:	indigo;
+font-family: Trebuchet MS;
+font:	Bookman;
+}
+
+h2{
+font-family: Trebuchet MS;
+font:	Bookman;
+color:	indigo;
+}
+
+h3{
+color:	grey;
+font-family: Trebuchet MS;
+}
+
+h4{
+color:	DarkSlateBlue;
+font-family: Trebuchet MS;
+}
+
+
+.container {
+  display: flex;
+  gap: 0.625%;
+}
+
+a {
+  flex: 1;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+  line-height: 3;
+  color: black;
+}
+
+a:link, a:visited, a:focus {
+  background: purple;
+}
+
+a:hover {
+  background: red;
+}
+
+a:active {
+  background: red;
+  color: white;
+}
+
+.rolagem {
+	box-shadow: 2px , 2px;
+	

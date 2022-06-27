@@ -1,0 +1,94 @@
+<html>
+<meta charset="utf-8">
+<head>
+<title> Blog: Séries Sombrias "Stranger Things" </title>
+<link rel="stylesheet" type="text/css" href="estilo.css" >
+<body>
+
+<div id="topo"> <img width="100" height="100" ALIGN="left" src="Logotipo.PNG"> <br>	Séries Sombrias, Que nós Amamos! </div>
+
+<div id="tudo"> </div>
+
+<div id="menu"> 
+<h2> 
+<nav class="container">
+
+  <a href="SeriesSombrias.html">♦ Inicio ♦</a><BR>
+  </nav>
+  
+  <nav class="container">
+  <a href="OmundosombriodeSabrina.html">O mundo sombrio<br>  de Sabrina </a>
+  </nav>
+  
+  <nav class="container">
+  <a href="LuciferSerie.html">Lucifer </a>
+  </nav>
+  
+</h2>
+</div>
+
+<div id="conteudo">
+
+
+<h1> ♦ Stranger Things ♦ </h1>
+<img src="stranger.jpg" width="274" height="398">
+
+<h1> ◊ Sinopse ◊ </h1>
+<h2> Um grupo de amigos se envolve em uma série de eventos sobrenaturais na pacata cidade de Hawkins. Eles enfrentam criaturas monstruosas, agências secretas do governo e se aventuram em dimensões paralelas.</h2>
+<br>
+<h1> ◊ Elenco e Personagens ◊</h1>
+
+<h2> • Millie Bobby Brown • </h2>
+<img src="onze.jpg" width="139" height="186">
+<h2> Atua como Onze uma misteriosa criança com vocabulário limitado e poderes telecinéticos. Foi encontrada por Dustin, Mike e Lucas, que passaram a ser seus amigos.</h2>
+<br>
+
+<h2>• Finn Wolfhard • </h2>
+<img src="mike.jpg" >
+<h2> Atua como Mike Wheeler o filho de Karen, irmão mais novo de Nancy e um dos três amigos de Will. Mike é mostrado como um estudante inteligente e consciente, além de ser muito comprometido com seus amigos.</h2>
+<br>
+
+<h2>• Caleb McLaughlin • </h2>
+<img src="lucas.jpg" >
+<h2> Atua como Lucas Sinclair integrante da turma de amigos que inclui Mike, Will e Dustin. Ele é corajoso, independente e carismático.</h2>
+<br>
+
+<h2>• Gaten Matarazzo • </h2>
+<img src="dustin.jpg" >
+<h2> Atua como Dustin Henderson integrante do grupo de amigos que inclui Mike, Will, e Lucas. Dustin é um fã de quadrinhos e possui um excelente raciocínio lógico. Ele sofre de displasia cleidocraniana e não tem os dentes da frente permanentes, o que lhe causa sigmatismo.</h2>
+<br>
+
+<h2>• Natalia Dyer • </h2>
+<img src="nancy.jpg" >
+<h2> A filha de Karen Wheeler, irmã mais velha de Mike, e namorada de Steve Harrington. Aparentemente tradicional, Nancy tenta equilibrar seus valores com suas emoções e responsabilidades. É uma ótima aluna e a melhor amiga de Barbara.</h2>
+<br>
+
+<h2>• Noah Schnapp •</h2>
+<img src="will.jpg" >
+<h2> Atua como Will Byers O menino desaparecido da história. É filho de Joyce Byers, irmão mais novo de Jonathan Byers, e parte do grupo de amigos que inclui Mike, Dustin e Lucas.</h2>
+<br>
+
+<h2> • Charlie Heaton •</h2>
+<img src="jonathan.jpg" >
+<h2> Atua como Jonathan Byers O irmão mais velho de Will e filho de Joyce. Considerado estranho no colégio, Jonathan é um adolescente do tipo solitário, além de ser muito independente e um talentoso fotógrafo. É muito próximo a sua mãe e seu irmão, tendo também uma paixão secreta por Nancy Wheeler.</h2>
+<br>
+<br>
+<h1> ◊ Lançamento ◊ </h1>
+<h2> O primeiro episódio foi lançado em 15 de julho de 2016.
+<br><br>
+<h1> ◊ Curiosidades ◊ </h1>
+<h2> • A primeira regra estabelecida pelos diretores é que a caracterização dos personagens fique exatamente igual ao visual da década de 80, por isso os artistas devem comparecer às filmagens sem nenhuma make.• </h2>
+<h2> • A mesma regra vale para o cabelo dos intérpretes. A regra, principalmente para os protagonistas, é não cortá-lo, para facilitar o trabalho do cabelereiro da equipe.• </h2>
+<h2> • Nos anos 1980, o ideal de beleza era diferente do atual. As mulheres não eram tão magras, nem os homens, tão musculosos. Por este motivo, os intérpretes foram orientados a mostrar uma aparência mais natural.• </h2>
+<h2> • Inspirado em Charlize Theron em Mad Max: Estrada da Fúria, o visual de Eleven foi muito bem recebido pelo público, mas teve uma pessoa que não gostou: O pai de Millie. Enquanto a filha cortava o cabelo, o homem começou a chorar e saiu da sala.• </h2>
+<br>
+<h1> ◊ Trailer ◊ </h1>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/yTX0HxTq9wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<div id="rodape">
+	
+ </div>
+ 
+<html>

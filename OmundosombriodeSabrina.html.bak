@@ -1,0 +1,105 @@
+<html>
+<meta charset="utf-8">
+<head>
+<title> Blog Séries Sombrias "O mundo Sombrio de Sabrina" </title>
+<link rel="stylesheet" type="text/css" href="estilo.css" >
+<script src="Script.js">
+<body>
+
+<div id="topo"> <img width="100" height="100" ALIGN="left" src="Logotipo.PNG"> <br>	Séries Sombrias, Que nós Amamos! </div>
+
+<div id="tudo"> </div>
+
+<div id="menu"> 
+<h2> 
+<nav class="container">
+
+  <a href="SeriesSombrias.html">♦ Inicio ♦</a><BR>
+  </nav>
+     
+  <nav class="container">
+  <a href="LuciferSerie.html">Lucifer </a>
+  </nav>
+  
+  <nav class="container">
+  <a href="StrangerThings.html">Stranger Things</a>
+  </nav>
+</h2>
+</div>
+
+<div id="conteudo">
+
+<h1> ♦ O mundo sombrio de Sabrina ♦ </h1>
+<img src="capa mundo de sabrina.jpg">
+<h1> ◊ Sinopse ◊ </h1>
+<h2><p> <Align="right">         
+                  Numa cidadezinha onde é halloween todos os dias, Sabrina Spellman deve escolher entre uma difícil decisão de continuar com sua vida mortal
+                  ou se tornar inteiramente bruxa. Como se isso não fosse o bastante, a garota ainda deve descobrir como se livrar de forças malignas que 
+				  ameaçam a cidade, seus amigos e sua família a todo custo.
+</p></h2>
+<br>
+<h1> ◊ Elenco e Personagens ◊ </h1>
+<br>
+<h2> • Kiernan Shipka • </h2>
+<img src="sabrina.jpg">
+<h2><p>Atua como Sabrina Spellman, uma adolescente metade humana e metade bruxa que estuda no Colégio Baxter e que está apenas começando sua educação sombria, enquanto tenta manter uma vida normal.</p></h4>
+<br>
+<h2> • Ross Lynch • </h2>
+<img src="ross.jpg">
+<h2><p>Atua como Harvey Kinkle, namorado sonhador de Sabrina, que é filho de um mineiro de carvão e não está ciente das forças sombrias que conspiram para manter ele e Sabrina separados.</p></h2>
+<br>
+
+<h2> • Miranda Otto •</h2>
+<img src="miranda.jpg">
+<h2><p>Atua como Zelda Spellman, uma das duas tias de Sabrina, que é mais autoritária que Hilda. Ela é membro da Igreja da Noite, devota do Senhor das Trevas, e é muito protetora de Sabrina.</p></h2>
+<br>
+
+<h2> • Lucy Davis •</h2>
+<img src="lucy.jpg">
+<h2><p>Atua como Hilda Spellman, uma das duas tias bruxas de Sabrina, que tem uma natureza maternal e um grande senso de humor, além de ser especializada em preparar poções.</p></h2>
+<br>
+
+<h2> • Chance Perdomo •</h2>
+<img src="chance.jpg">
+<h2><p>Atua como Ambrose Spellman, primo bruxo e pansexual de Sabrina da Inglaterra, que é parceiro de Sabrina, mas é proibido de ir embora da casa dos Spellman depois de ser colocado sob prisão domiciliar pelo Conselho das Bruxas por tentar explodir o Vaticano.</p></h2>
+<br>
+
+<h2> • Michelle Gomez • </h2>
+<img src="michelle.jpg">
+<h2><p>Atua como Madame Satã e Mary Wardwell, professora e mentora favorita de Sabrina no Colégio Baxter, que é morta e, em seguida, personificada por Madame Satã, uma manipuladora astuta.</p></h2>
+<br>
+
+<h1> ◊ Lançamento ◊ </h1>
+<h2>
+<p>A primeira parte do "Mundo Sombrio de Sabrina" foi lançada no dia 26 de Outubro de 2018, bem no halloween. No mesmo dia, os dois primeiros episódios foram exibidos na "Paris Comic-Con". Em 12 de Novembro do mesmo ano, a Netflix anunciou o lançamento do décimo primeiro episódio da série, que seria o tão esperado "Solstício de Inverno", e já sabemos que a segunda parte virá no dia 5 de Abril de 2019, e que os atores já estão gravando, em conjunto com a participação especial de McKenna Grace, atriz de "a Residência Hill".</p></h2>
+<br>
+<h1> ◊ Curiosidades ◊ </h1>
+<p><h2>• A série originalmente foi gravada em 1990 e lançada pela Nickelodeon. Porém, era uma comédia que fazia com que as pessoas perdessem o medo das bruxas. Seu nome era "Sabrina: A Aprendiz de Feiticeira";
+
+<p>• Salém, familiar de Sabrina, é interpretado por cinco gatos diferentes, sendo eles: Shaq, Boomer, Edward, Bobby e Trevor. E para não cansar os animais durante as gravações, os produtores ainda criaram uma versão em CGI do gato;</p>
+<br>
+
+<p>• A atriz que interpreta Sabrina é alérgica a gatos e só descobriu isso durante as gravações. “O gato é o único membro do elenco com quem eu não me dou bem", disse Kiernan numa entrevista ao "Vulture";</p>
+<br>
+
+<p>• O diretor e o produtor executivo da série se inspiraram em filmes clássicos de terror para fazer o "reboot" da série, sendo eles: "O Bebê de Rosemary", "O Exorcista", "Suspiria", "Corrente do Mal" e "A Bruxa";</p>
+<br>
+
+<p>• Kiernan Shipka fez o papel para ser a "Betty" em "Riverdale", porém quem ganhou o papel foi Lili Reinhart. “Kiernan era icônica em Mad Men, e eu até pensava nela, eu ficava tipo ‘Oh, eu me pergunto se ela nunca faria Betty’”, disse o showrunner Roberto Aguirre-Sacasa;</p>
+<br>
+
+<p>• Susie, umas das melhores amigas de Sabrina, sofre por ter dificuldades de se enxergar em um gênero específico. Isso significa que ela não se vê nem totalmente menina, nem totalmente menino. E o mais legal é que para dar vida à personagem, a Netflix chamou Lachlan Watson, que se considera não-binária (sem gênero específico);</p>
+<br>
+
+<p>• O papel de parede utilizado no quarto de Sabrina durante a série foi o mesmo que a atriz teve em seu quadro quando era mais nova, e isso não foi uma coincidência.
+</h2></p>
+<br>
+<h1> ◊ Trailer ◊ </h1>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/6X9dbvAzyQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div id="rodape">
+	<br>Copyright © 2022.
+ </div>
+ 
+</script>
+<html>
